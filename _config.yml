@@ -1,0 +1,33 @@
+# Site settings
+title: OTT Apps Streaming Algorithms
+description: A GitHub repository showcasing algorithms used in OTT streaming apps.
+theme: theme-name  # Replace with the name of your chosen Jekyll theme
+url: https://username.github.io  # Replace with your GitHub Pages URL if applicable
+
+# Build settings
+markdown: kramdown
+theme_color: "#3498db"  # Optional: Custom theme color
+
+# Navigation
+nav_links:
+  - title: Home
+    url: /
+
+# Plugins
+plugins:
+  - jekyll-feed  # Optional: Generates an Atom feed for your site
+
+# Exclude from processing
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
+  - vendor
+
+# Permalinks
+permalink: /:title
+
+# GitHub Pages settings
+remote_theme: username/theme-name  # Optional: If using a remote theme
+
+# Other configurations specific to your theme or project
