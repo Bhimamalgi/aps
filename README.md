@@ -1,17 +1,17 @@
-# _config.yml
+# _config.yml for Minimal Mistakes
 
 theme: minimal-mistakes-jekyll
 
 # Site settings
-title: Portfolio on OTT Streaming
-description: A portfolio to present learnings and its applications on a real world domain
-url: "https://bhimamalgi.github.io/aps/"  
+title: My Awesome Site
+description: Explore the world of Jekyll themes.
+url: "https://example.com"
 
 # Author settings
 author:
-  name: Bhimashankar R Malgi
-  avatar: ""  
-  bio: "About me"
+  name: John Doe
+  avatar: "/assets/images/avatar.jpg"
+  bio: "Developer and explorer of all things web."
 
 # Build settings
 markdown: kramdown
