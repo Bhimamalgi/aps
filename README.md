@@ -1,4 +1,3 @@
-# _config.yml for Minimal Mistakes
 
 theme: minimal-mistakes-jekyll
 
