@@ -1,13 +1,25 @@
 # Recommendation Systems for Streaming Platforms
 
-This repository provides an overview of recommendation systems used in streaming platforms and demonstrates various use cases.
+Recommendation systems used in streaming platforms.
 
-## Overview
+## Introduction
 
-Recommendation systems in streaming platforms aim to enhance user experience by suggesting content that aligns with user preferences. These systems can be broadly categorized into:
-1. **Content-Based Filtering:** Recommends items similar to those the user has interacted with based on item attributes.
-2. **Collaborative Filtering:** Recommends items based on the preferences and behaviors of other users with similar tastes.
-3. **Knowledge-Based Filtering:** Uses explicit knowledge about user preferences and item attributes to make recommendations.
+As streaming platforms have emerged as leading sources for entertainment media — particularly for [ﬁlm, television, music], access to content has increased to an overwhelming amount.
+
+Actor Marc Maron theorizes that everyone had one person in their life that influenced their interests by introducing them to new films, music, books, clothes, or anything else. 
+This person came to us at an influential time and changed the trajectory of our lives. That role is now being filled by algorithms.
+
+- Amazon has been using recommendations from algorithms for its service since 1998.
+- Netflix has been using algorithms for recommending entertainment since 2007 when it was only sending DVDs.
+Now, all Streaming platforms use their algorithms alongside machine learning to guide the consumer to decide what to watch. They aim for - Increasing number of Subscribers
+                            - Increasing viewing Hours
+                            - Reducing Churn rate (Cancellation of service within threshold time)
+
+The Recommendation systems can be broadly categorized into:
+
+1. **Content-Based :** Recommends using metadata[tags, text] of items similar to those the user has interacted previously based on it's attributes.
+2. **Collaborative Filtering :** Recommends content based on the preferences and behaviors of other users with similar tastes or behavioural pattern.
+3. **Knowledge-Based :** Recommends by correlating explicit knowledge about user preferences and item attributes using their similarities. ( For discovery of new Content )
 
 ## Use Cases
 
