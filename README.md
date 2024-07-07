@@ -24,21 +24,19 @@ The recommendation systems can be broadly categorized into:
 
 ## Use Cases
 
-| #  | Use Case                                    | Algorithm                                          | Details                    |
-|----|---------------------------------------------|----------------------------------------------------|----------------------------|
-| 1  | Personalized Recommendation                 | Collaborative Filtering                            | [Details](./details/1.md)  |
-| 2  | Genre-based Suggestions                     | Content-Based Filtering                            | [Details](./details/2.md)  | 
-| 3  | New Release Recommendation                  | Knowledge-Based Filtering                          | [Details](./details/3.md)  |
-| 4  | Trending Content Discovery                  | Popularity-Based Filtering                         | [Details](./details/4.md)  |
-| 5  | Seasonal Content Suggestion                 | Time-Based Filtering                               | [Details](./details/5.md)  |
-| 6  | User Engagement Optimization                | Reinforcement Learning                             | [Details](./details/6.md)  |
-| 7  | Multi-Modal Content Recommendation          | Multi-Modal Recommender Systems                    | [Details](./details/7.md)  |
-| 8  | Geo-Specific Recommendation                 | Geo-Based Filtering                                | [Details](./details/8.md)  |
-| 9  | Personal Playlist Curation                  | Sequential Recommendation                          | [Details](./details/9.md)  |
-| 10 | User Retention/Churn Reduction              | Matrix Factorization with Side Information         | [Details](./details/10.md) |
-| 11 | Real-Time Content Updates and Notifications | Stream-based Collaborative Filtering               | [Details](./details/11.md) |
-| 12 | User-Specific Advertisement Recommendation  | Context-Aware Recommender Systems                  | [Details](./details/12.md) |
-| 13 | Diverse Content Exploration                 | Diversity-Aware Recommender Systems                | [Details](./details/13.md) |
-| 14 | Social Network Integration                  | Social Network-Based Filtering                     | [Details](./details/14.md) |
-
-
+| #  | Use Case                                    | Algorithm                                          | Code |
+|----|---------------------------------------------|----------------------------------------------------|------|
+| 1  | [Personalized Recommendation](./details/1.md) | Collaborative Filtering                            | [Code](https://github.com/gorse-io/gorse) |
+| 2  | [Genre-based Suggestions](./details/2.md)     | Content-Based Filtering                            | [Code](https://github.com/vjvishaljha/Recommender_Sys) |
+| 3  | [New Release Recommendation](./details/3.md)  | Knowledge-Based Filtering                          | [Code](https://github.com/xiangwang1223/knowledge_graph_attention_network) |
+| 4  | [Trending Content Discovery](./details/4.md)  | Popularity-Based Filtering                         | [Code](https://github.com/convenience-tinashe-chibatamoto/Movie-Recommendation-System) |
+| 5  | [Seasonal Content Suggestion](./details/5.md) | Time-Based Filtering                               | [Code](https://github.com/chen0040/mxnet-recommender) |
+| 6  | [User Engagement Optimization](./details/6.md)| Reinforcement Learning                             | [Code](https://github.com/fuxiAIlab/EOMM) |
+| 7  | [Multi-Modal Content Recommendation](./details/7.md) | Multi-Modal Recommender Systems                    | [Code](https://github.com/enoche/MultimodalRecSys) |
+| 8  | [Geo-Specific Recommendation](./details/8.md) | Geo-Based Filtering                                | [Code](https://github.com/ustcml/GeoSAN) |
+| 9  | [Personal Playlist Curation](./details/9.md)  | Sequential Recommendation                          | [Code](https://github.com/SamU65/Celluloid-playlist-generator) |
+| 10 | [User Retention/Churn Reduction](./details/10.md) | Matrix Factorization with Side Information         | [Code](https://github.com/rohitharitash/CustomerChurnReduction) |
+| 11 | [Real-Time Content Updates and Notifications](./details/11.md) | Stream-based Collaborative Filtering               | [Code](https://github.com/BaseMax/real-time-notifications-nats-go) |
+| 12 | [User-Specific Advertisement Recommendation](./details/12.md) | Context-Aware Recommender Systems                  | [Code](https://github.com/rishikonapure/Advertisement-Recommendation) |
+| 13 | [Diverse Content Exploration](./details/13.md) | Diversity-Aware Recommender Systems                | [Code](https://github.com/guanghuixu/AnchorCaptioner) |
+| 14 | [Social Network Integration](./details/14.md)  | Social Network-Based Filtering                     | [Code](https://github.com/reddyprasade/Deep-Learning) |
