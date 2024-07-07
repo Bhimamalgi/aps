@@ -24,21 +24,21 @@ The recommendation systems can be broadly categorized into:
 
 ## Use Cases
 
-| #  | Use Case                                    | Algorithm                                          | Time Complexity                | Details                    |
-|----|---------------------------------------------|----------------------------------------------------|--------------------------------|----------------------------|
-| 1  | Personalized Recommendation                 | Collaborative Filtering                            |                                | [Details](./details/1.md)  |
-| 2  | Genre-based Suggestions                     | Content-Based Filtering                            |                                | [Details](./details/2.md)  | 
-| 3  | New Release Recommendation                  | Knowledge-Based Filtering                          |                                | [Details](./details/3.md)  |
-| 4  | Trending Content Discovery                  | Popularity-Based Filtering                         |                                | [Details](./details/4.md)  |
-| 5  | Seasonal Content Suggestion                 | Time-Based Filtering                               |                                | [Details](./details/5.md)  |
-| 6  | User Engagement Optimization                | Reinforcement Learning                             |                                | [Details](./details/6.md)  |
-| 7  | Multi-Modal Content Recommendation          | Multi-Modal Recommender Systems                    |                                | [Details](./details/7.md)  |
-| 8  | Geo-Specific Recommendation                 | Geo-Based Filtering                                |                                | [Details](./details/8.md)  |
-| 9  | Personal Playlist Curation                  | Sequential Recommendation                          |                                | [Details](./details/9.md)  |
-| 10 | User Retention/Churn Reduction              | Matrix Factorization with Side Information         |                                | [Details](./details/10.md) |
-| 11 | Real-Time Content Updates and Notifications | Stream-based Collaborative Filtering               |                                | [Details](./details/11.md) |
-| 12 | User-Specific Advertisement Recommendation  | Context-Aware Recommender Systems                  |                                | [Details](./details/12.md) |
-| 13 | Diverse Content Exploration                 | Diversity-Aware Recommender Systems                |                                | [Details](./details/13.md) |
-| 14 | Social Network Integration                  | Social Network-Based Filtering                     |                                | [Details](./details/14.md) |
+| #  | Use Case                                    | Algorithm                                          | Details                    |
+|----|---------------------------------------------|----------------------------------------------------|----------------------------|
+| 1  | Personalized Recommendation                 | Collaborative Filtering                            | [Details](./details/1.md)  |
+| 2  | Genre-based Suggestions                     | Content-Based Filtering                            | [Details](./details/2.md)  | 
+| 3  | New Release Recommendation                  | Knowledge-Based Filtering                          | [Details](./details/3.md)  |
+| 4  | Trending Content Discovery                  | Popularity-Based Filtering                         | [Details](./details/4.md)  |
+| 5  | Seasonal Content Suggestion                 | Time-Based Filtering                               | [Details](./details/5.md)  |
+| 6  | User Engagement Optimization                | Reinforcement Learning                             | [Details](./details/6.md)  |
+| 7  | Multi-Modal Content Recommendation          | Multi-Modal Recommender Systems                    | [Details](./details/7.md)  |
+| 8  | Geo-Specific Recommendation                 | Geo-Based Filtering                                | [Details](./details/8.md)  |
+| 9  | Personal Playlist Curation                  | Sequential Recommendation                          | [Details](./details/9.md)  |
+| 10 | User Retention/Churn Reduction              | Matrix Factorization with Side Information         | [Details](./details/10.md) |
+| 11 | Real-Time Content Updates and Notifications | Stream-based Collaborative Filtering               | [Details](./details/11.md) |
+| 12 | User-Specific Advertisement Recommendation  | Context-Aware Recommender Systems                  | [Details](./details/12.md) |
+| 13 | Diverse Content Exploration                 | Diversity-Aware Recommender Systems                | [Details](./details/13.md) |
+| 14 | Social Network Integration                  | Social Network-Based Filtering                     | [Details](./details/14.md) |
 
 
