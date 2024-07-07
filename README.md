@@ -1,27 +1,18 @@
-# aps
+# _config.yml
 
----
-layout: default
-title: OTT Apps Streaming Algorithms
----
+theme: minimal-mistakes-jekyll
 
-# OTT Apps Streaming Algorithms
+# Site settings
+title: Portfolio on OTT Streaming
+description: A portfolio to present learnings and its applications on a real world domain
+url: "https://bhimamalgi.github.io/aps/"  
 
-![Header Image](https://example.com/header-image.png)
+# Author settings
+author:
+  name: Bhimashankar R Malgi
+  avatar: ""  
+  bio: "About me"
 
-## Introduction
-
-Over-the-Top (OTT) streaming services have transformed the entertainment industry...
-
-## Personalized Content Recommendations
-
-Algorithms analyze user behavior, viewing history, and preferences...
-
-## Adaptive Bitrate Streaming
-
-Adaptive bitrate streaming adjusts the video quality in real-time...
-
-## Ad Targeting
-
-By analyzing user demographics, preferences, and behaviors...
-
+# Build settings
+markdown: kramdown
+permalink: pretty
