@@ -108,4 +108,5 @@ I have identified some Business Use-cases that are significant in this domain an
 9. Alvino, C., & Basilico, J. (2015, April 9). Learning a Personalized Homepage. [Article](https://netflixtechblog.com/learning-a-personalized-homepage-aa8ec670359a)
 10. DeAngelis, F. S. (2015, August 07). Artiﬁcial intelligence: How algorithms make systems smart. [Article](https://www.wired.com/insights/2014/09/artiﬁcial-intelligence-algorithms-2/)
 11. Jordan, J. (2019, November 19). "The creativity code": Is AI taking over Creative Industries? [Review](https://amt-lab.org/reviews/2019/11/the-creativity-code-is-ai-taking-over-creative-industries?rq=sautoy)
+12. Muvi One [https://www.muvi.com/blogs/metrics-and-kpis-for-increasing-user-engagement-for-ott-apps/]
 
