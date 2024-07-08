@@ -51,7 +51,7 @@ Netflix has published much of the details on its algorithms. The first use of al
 - **Search Algorithm:** Made up of multiple algorithms that help determine which results are most relevant for a user by including partial queries (“frie” showing “friend”) or concepts (showing French movies for “French” instead of titles including “French”).
 - **Page Generation Algorithm:** Uses all of the algorithms above to personalize which rows show up and in what order.
 
-  ![Netflix](./Algorithms1.jpg)
+  ![Netflix](./Algorithms1.png)
 
 ## Use Cases
 
