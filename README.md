@@ -24,6 +24,8 @@ The recommendation systems can be broadly categorized into:
 
 ## Use Cases
 
+I have identified some Business Use-cases that are significant in this domain and tried to brief each use case with its [understanding, challenges, primary algorithm used, complexity analysis, examplary code]
+
 | #  | Use Case                                    | Algorithm                                          | Code |
 |----|---------------------------------------------|----------------------------------------------------|------|
 | 1  | [Personalized Recommendation](./details/1.md) | Collaborative Filtering                            | [Code](https://github.com/gorse-io/gorse) |
